@@ -1,2 +1,5 @@
-# Applied-Data-Science-Capstone
-GitHub repository for all the completed notebooks and Python files. Used for "Applied Data Science Capstone"
+# Applied Data Science Capstone  
+GitHub repository for all completed notebooks and Python files used for the "Applied Data Science Capstone."  
+
+Author:  
+Cory
