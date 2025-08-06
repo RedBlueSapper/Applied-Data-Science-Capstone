@@ -206,6 +206,23 @@ Success rate by orbit type:
 
 ---
 
+## Predictive analysis
+Classification Accuracy
+
+Bar chart:
+
+![Bar Chat comparing modal performance](Images/Modelling/Bar_chart_model_proformance.png)
+
+*Bar chart comparing different models.*
+
+Model comparison:
+
+![Model comparison statistics](Images/Modelling/Model_accuracy.png)
+
+*Picture showing statistics for model comparison.*
+
+---
+
 ## AUTHOR:
 
 Cory Bromwich, June 2025
