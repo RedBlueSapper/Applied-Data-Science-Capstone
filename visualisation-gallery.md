@@ -3,7 +3,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ## Sections:
 1. [Folium Maps](##Folium-Maps)
-2. [Charts](##Carts)
+2. [Charts](##-Carts)
 3. [Folium Maps](##Charts)
 4. [Folium Maps](##Folium-Maps)
 5. [Folium Maps](##Folium-Maps)
