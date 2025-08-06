@@ -9,14 +9,14 @@ GitHub repository for all completed notebooks and Python files used for the IBM 
 - visualisation-gallery/: Comprehensive image gallery
 
 ## FILES:
-1. Jupyter-labs-spaceX-data-collection-API.ipynb - (Data collection using API notebook)
-2. Jupyter-labs-webscraping.ipynb ---------------- (Data collection using web scraping notebook)
-3. Jupyter-labs-spaceX-data-wrangling.ipynb ----- (Data wrangling notebook)
-4. Jupyter-labs-EDA-dataviz.ipynb -------------------------------- (Exploratory data analysis with visualisation notebook)
-5. Jupyter-labs-EDA-SQL.ipynb ---- (exploratory data analysis with SQL)
-6. spacex-dash-app.py ------------------------- (Code using Plotly Dash for a dashboard)
-7. Jupyter-labs-launchsite-location.ipynb --------- (Mapping launch sites using Folium)
-8. Jupyter-labs-machinelearning-prediction.ipynb ---- (Predictive modelling of launch success outcomes)
+1. Jupyter-labs-spaceX-data-collection-API.ipynb ----------- (Data collection using API notebook)
+2. Jupyter-labs-webscraping.ipynb --------------------------- (Data collection using web scraping notebook)
+3. Jupyter-labs-spaceX-data-wrangling.ipynb --------------- (Data wrangling notebook)
+4. Jupyter-labs-EDA-dataviz.ipynb --------------------------- (Exploratory data analysis with visualisation notebook)
+5. Jupyter-labs-EDA-SQL.ipynb ------------------------------ (exploratory data analysis with SQL)
+6. spacex-dash-app.py --------------------------------------- (Code using Plotly Dash for a dashboard)
+7. Jupyter-labs-launchsite-location.ipynb --------------------(Mapping launch sites using Folium)
+8. Jupyter-labs-machinelearning-prediction.ipynb ---------- (Predictive modelling of launch success outcomes)
 
 
 ---
@@ -26,7 +26,7 @@ GitHub repository for all completed notebooks and Python files used for the IBM 
 
 SpaceX is widely considered the most successful company in the space launch industry. The organisation maintains low operational costs by providing relatively affordable rocket launch services. A significant part of these savings is due to SpaceX's innovative approach of reusing the first stage of the Falcon 9 rocket.
 
-In contrast, Space Y is a new startup founded by billionaire industrialist Allon Musk. Space Y aims to establish itself as a competitor to SpaceX.
+This project is inspired by a fictional competitor, Space Y, a new startup founded by billionaire industrialist Alon Musk. Space Y aims to establish itself as a competitor to SpaceX.
 
 ---
 
@@ -37,34 +37,27 @@ In contrast, Space Y is a new startup founded by billionaire industrialist Allon
 ---
 
 ## EXECUTIVE SUMMARY
-### Summary of the methodologies:
-- Data collection
-- Data wrangling
-- Exploratory data analysis
-- Interactive maps
-- Interactive dashboard
-- Machine learning protective analysis
-
-### Summary of results:
-- Model
-  - Decision tree classifier, achieving an accuracy of 94.44%.
+### Key findings:
+- Model Performance
+  - Decision tree classifier achieved 94.44% accuracy.
      
-- Most successful launch site
-  - KSC LC-39A, success rate of 76.9% and the highest number of successful launches overall.
+- Top Launch Site
+  - KSC LC-39A with a 76.9% success rate and the most number of successful launches.
     
-- Launch sites are typically located near the ocean and the equator, while also being positioned at a safe distance from cities, highways, railways, and other public infrastructure.
+- Launch Site Locations
+  - Sites are near oceans and the equator, far from cities and infrastructure for safety.
    
-- Landing success rates tend to improve with    
-  - Increase in the number of launches    
-  - Increase in payload mass
+- Success Trends    
+  - Landing success improves with more launches and higher payload mass.
     
-- Orbits with 100% success rate
+- High-Success Orbits (100% success rates)
   - ES-L1
   - GEO
   - HEO
   - VLEO
     
-- Landing success has shown a consistent increase year over year from 2013 to 2020. 
+- Yearly Trend
+  - Landing success increased consistently from 2013 to 2020.
 
 ---
 
@@ -194,6 +187,4 @@ In contrast, Space Y is a new startup founded by billionaire industrialist Allon
 
 ## AUTHOR:
 
-Cory Bromwich
-
-June 2025
+Cory Bromwich, June 2025
