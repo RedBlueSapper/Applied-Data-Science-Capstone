@@ -41,7 +41,7 @@ In contrast, Space Y is a new startup founded by billionaire industrialist Allon
 ### Summary of results:
 - Model
   - Decision tree classifier, achieving an accuracy of 94.44%.
-  -  
+     
 - Most successful launch site
   - KSC LC-39A, success rate of 76.9% and the highest number of successful launches overall.
     
@@ -97,7 +97,7 @@ In contrast, Space Y is a new startup founded by billionaire industrialist Allon
   - Landing specifications (Grid Fins, Legs, Landing Pad, Longitude, Latitude), and 
   - Landing outcome (Outcome).
 
-### Web scrapping:
+### Web scraping:
 - Extract the Falcon 9 launch records from Wikipedia with BeautifulSoup.
 - Parse the table and convert it into a Pandas data frame.
   - Payload delivered (Payload, Payload Mass). 
@@ -155,7 +155,7 @@ In contrast, Space Y is a new startup founded by billionaire industrialist Allon
     - success (green)
     - failure (red)
       
-*This allows easily viewing sites with high landing success rates.*
+*This allows for easy viewing of sites' landing success rates.*
 
   - Lines and distances between launch site CCAFS SLC-40 and
     - nearest city
