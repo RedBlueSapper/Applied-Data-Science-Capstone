@@ -1,7 +1,8 @@
-# **Data Science Capstone Project**
+# **DATA SCIENCE CAPSTONE PROJECT**
+
 GitHub repository for all completed notebooks and Python files used for the IBM Data Science Certificate Applied Data Science Capstone project.
 
-## Files:
+## FILES:
 1. jupyter-labs-spacex-data-collection-api - (Data collection using API notebook)
 2. jupyter-labs-webscraping ---------------- (Data collection using web scraping notebook)
 3. labs-jupyter-spacex-Data wrangling ----- (Data wrangling notebook)
@@ -11,30 +12,181 @@ GitHub repository for all completed notebooks and Python files used for the IBM 
 7. lab_jupyter_launch_site_location --------- (Mapping launch sites using Folium)
 8. SpaceX_Machine Learning Prediction ---- (Predictive modelling of launch success outcomes)
 
-## Methodology
-Data collection: 
+---
+
+## PROJECT BACKGROUND
+### Scenario:
+
+SpaceX is widely considered the most successful company in the space launch industry. The organisation maintains low operational costs by providing relatively affordable rocket launch services. A significant part of these savings is due to SpaceX's innovative approach of reusing the first stage of the Falcon 9 rocket.
+
+In contrast, Space Y is a new startup founded by billionaire industrialist Allon Musk. Space Y aims to establish itself as a competitor to SpaceX.
+
+---
+
+## OBJECTIVES
+1. Determine the success rate for first-stage landings using variables such as payload, launch site, number of flights and orbit.
+2. Using binary classification, determine what the best logarithm to use is when predicting a landing outcome.
+
+---
+
+## EXECUTIVE SUMMARY
+### Summary of the methodologies:
+- Data collection
+- Data wrangling
+- Exploratory data analysis
+- Interactive maps
+- Interactive dashboard
+- Machine learning protective analysis
+
+### Summary of results:
+- Model
+  - Decision tree classifier, achieving an accuracy of 94.44%.
+  -  
+- Most successful launch site
+  - KSC LC-39A, success rate of 76.9% and the highest number of successful launches overall.
+    
+- Launch sites are typically located near the ocean and the equator, while also being positioned at a safe distance from cities, highways, railways, and other public infrastructure.
+   
+- Landing success rates tend to improve with    
+  - Increase in the number of launches    
+  - Increase in payload mass
+    
+- Orbits with 100% success rate
+  - ES-L1
+  - GEO
+  - HEO
+  - VLEO
+    
+- Landing success has shown a consistent increase year over year from 2013 to 2020. 
+
+---
+
+## METHODOLOGY
+### Data collection: 
 - SpaceX’s open-source REST API 
 - Web scraping from Wikipedia using Beautiful Soup
 
-Data wrangling:
+### Data wrangling:
 - Filter
 - Assess 
 - Feature Engineer 
 - Binary Encoding (0 = Unsuccessful, 1 = Successful)
   
-EDA: 
+### EDA: 
 - Visualisation
 - SQL
 - Interactive visual analytics 
   - Folium
   - Plotly Dash
   
-Predictive analysis 
+### Predictive analysis 
 - Classification models
   - Build
   - Tune 
   - Evaluate
 
-## Author:
+---
+ 
+## DATA COLLECTION
+### API:
+- Request to SpaceX’s REST API
+- Clean the requested data:
+  - Rocket used (Booster Version, Block, Serial), 
+  - Payload delivered (Payload Mass), 
+  - Launch specifications (Orbit, Launch Site, Flights, Reused, Reused Count), 
+  - Landing specifications (Grid Fins, Legs, Landing Pad, Longitude, Latitude), and 
+  - Landing outcome (Outcome).
+
+### Web scrapping:
+- Extract the Falcon 9 launch records from Wikipedia with BeautifulSoup.
+- Parse the table and convert it into a Pandas data frame.
+  - Payload delivered (Payload, Payload Mass). 
+  - Launch specifications (Orbit, Launch Site, Date and time, Flight No, Customer, Launch outcome).
+
+---
+ 
+## EDA
+### Charts:
+- Scatter plots:
+  - Flight Number vs. Payload Mass. 
+  - Flight Number vs Launch Site. 
+  - Launch Site vs Payload Mass.
+  - Payload Mass and Orbit type.
+- Bar chart
+  - Success Rate vs Orbit Type.
+- Line chart
+  - Year vs Success Rate.
+ 
+### Reason:
+- Scatter plots:
+  - Scatter plots are ideal for showing data points, distribution, correlation, and relationship across two variables. 
+  - Colour-coding makes it easy to distinguish.
+- Bar chart
+  - Bar charts are ideal for comparing different categories or groups among discrete data categories.
+- Line chart
+  - A line plot is useful for visualising trends and changes over time.
+ 
+### SQL:
+- Summary of SQL queries:
+  - Names of the unique launch sites.
+  - 5 records where launch sites begin with the string 'CCA’.
+  - Total payload mass carried by boosters launched by NASA.
+  - Average payload mass carried by booster version F9 v1.1
+  - Date of first successful landing on a ground pad.
+  - Successful drone ship landings, mass 4k - 6k (kg).
+  - Total number of mission outcomes.
+  - All booster versions that have carried the maximum payload.
+  - Display the month names, drone ship landing failures, booster version, and launch site in 2015.
+  - Rank the count of landing outcomes, between the dates 2010-06-04 and 2017-03-20, in descending order.
+ 
+### Interactive maps with folium:
+- Added:
+  - launch sites with
+    - circles
+    - markers
+    - text
+    - pop-ups 
+  - NASA’s Johnson Space Centre
+    
+*This improves visibility and makes it easy to identify each launch site and its location.* 
+
+  - marker clusters 
+  - colour-coded booster landings
+    - success (green)
+    - failure (red)
+      
+*This allows easily viewing sites with high landing success rates.*
+
+  - Lines and distances between launch site CCAFS SLC-40 and
+    - nearest city
+    - railway line
+    - highway
+    - coastline
+      
+*This shows the proximity of the different locations to launch sites and allows us to draw conclusions through visuals.*
+
+### Dashboard with plotly dash:
+- Added:
+  - Drop-down menu
+    
+*For selecting any or all lunch sites.*
+
+- Slide Selector
+ 
+*Enables custom selection of various payload mass ranges.*
+
+- Pie Charts
+
+*Selecting all sites allows you to compare the success percentage between all sites, while selecting individual sites enables you to view the success versus failure percentage for that specific site.*
+
+- Scatter Charts
+
+*Allows for the comparison of payload versus launch success. The correlation can be analysed between the selected parameters.*
+
+---
+
+## AUTHOR:
 
 Cory Bromwich
+
+June 2025
