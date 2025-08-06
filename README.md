@@ -78,6 +78,8 @@ Success rate by orbit type:
 ![Bar Chart of Orbit vs. Success Rate](Images/Charts/Bar_chart_orbit_Vs_successrate.png)
 *Bar chart comparing landing success rates across orbit types.*
 
+### **See more visuals in the visualisations gallery.**
+
 ---
 
 ## METHODOLOGY
