@@ -3,12 +3,13 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ## Sections:
 1. [Folium Maps](##Folium-Maps)
-2. [Charts](##Carts)
-3. [Folium Maps](##Charts)
-4. [Folium Maps](##Folium-Maps)
-5. [Folium Maps](##Folium-Maps)
-6. [Folium Maps](##Folium-Maps)
+2. [Charts](##Charts)
+3. [SQL](##SQL-Queries)
+4. [Dashbords](##Dashboards)
+5. [Modelling](##Modelling-Outcomes)
 
+* Placeholder for Table of Contents (Must not be removed)
+* {:toc}
 
 ## Image List
 
@@ -71,5 +72,7 @@ First Successful Ground Landing:![SQL First Ground Landing](Images/SQL first gro
 All Launch Sites:Dashboard showing success rates across all launch sites.
 
 KSC LC-39A:Dashboard for KSC LC-39A success rates.
+
+## Modelling Outcomes
 
 
