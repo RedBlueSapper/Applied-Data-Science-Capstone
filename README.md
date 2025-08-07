@@ -63,22 +63,24 @@ This project is inspired by a fictional competitor, Space Y, a new startup found
 Launch site locations:
 
 ![Folium Map of SpaceX Launch Sites](Images/Folium/Folium_worldmap_markers_launchsites_zoomin.png)
-^ *Map showing SpaceX launch sites.*
+^ *Map showing SpaceX launch sites*
 
 Launch site location outcome markers:
 
 ![Folium Map of SpaceX Launch Sites](Images/Folium/Folium_maps_outcome_markers.png)
-^ *Map showing SpaceX launch sites outcomes.*
+^ *Map showing SpaceX launch sites outcomes*
 
-Launch success yearly trend:
-![Folium Map of SpaceX Launch Sites](Images/Charts/Line_plot_launch_success_yearly-trend.png)
-^ *Line plot showing Launch success year on year.*
+Landing success yearly trend:
+
+![Line plot of landing success rate](Images/Charts/Line_plot_launch_success_yearly_trend.png)
+^ *Line plot showing landing success (2010-2020)*
 
 Success rate by orbit type:
+
 ![Bar Chart of Orbit vs. Success Rate](Images/Charts/Bar_chart_orbit_Vs_successrate.png)
 ^ *Bar chart comparing landing success rates across orbit types.*
 
-### **See more visuals in the visualisations gallery.**
+### More visuals are available in the visualisations gallery.
 
 ---
 
@@ -213,13 +215,13 @@ Bar chart:
 
 ![Bar Chat comparing modal performance](Images/Modelling/Bar_chart_model_proformance.png)
 
-*Bar chart comparing different models.*
+^ *Bar chart comparing different models.*
 
 Model comparison:
 
 ![Model comparison statistics](Images/Modelling/Model_accuracy.png)
 
-*Picture showing statistics for model comparison.*
+^ *Picture showing statistics for model comparison.*
 
 ---
 
