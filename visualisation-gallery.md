@@ -10,20 +10,20 @@ This page contains all charts, dashboards, and screenshots from the Data Science
   
 ## Image List
 
- NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK |
- | :---: | :---- | :--- | :---: | :---- | :--- | :---: | :---- | :--- |
- | 01 | World Launch sites | [Link](#World-Launch-site-locations) | 12 | Text | [Link](#World-Launch-site-locations) | 23 | Text | [Link](#World-Launch-site-locations) |
- | 02 | USA Launch sites | [Link](#USA-Launch-site-locations) | 13 | Text | [Link](#World-Launch-site-locations)| 24 | Text | [Link](#World-Launch-site-locations) |
- | 03 | Text | [Link](#World-Launch-site-locations) | 14 | Text | [Link](#World-Launch-site-locations) | 25 | Text | [Link](#World-Launch-site-locations) |
- | 04 | Text | [Link](#World-Launch-site-locations) | 15 | Text | [Link](#World-Launch-site-locations) | 26 | Text | [Link](#World-Launch-site-locations) |
- | 05 | Text | [Link](#World-Launch-site-locations) | 16 | Text | [Link](#World-Launch-site-locations) | 27 | Text | [Link](#World-Launch-site-locations) |
- | 06 | Text | [Link](#World-Launch-site-locations) | 17 | Text | [Link](#World-Launch-site-locations) | 28 | Text | [Link](#World-Launch-site-locations) |
- | 07 | Text | [Link](#World-Launch-site-locations) | 18 | Text | [Link](#World-Launch-site-locations) | 29 | Text | [Link](#World-Launch-site-locations) |
- | 08 | Text | [Link](#World-Launch-site-locations) | 19 | Text | [Link](#World-Launch-site-locations) | 30 | Text | [Link](#World-Launch-site-locations) |
- | 09 | Text | [Link](#World-Launch-site-locations) | 20 | Text | [Link](#World-Launch-site-locations) | 31 | Text | [Link](#World-Launch-site-locations) |
- | 10 | Text | [Link](#World-Launch-site-locations) | 21 | Text | [Link](#World-Launch-site-locations) | 32 | Text | [Link](#World-Launch-site-locations) |
- | 11 | Text | [Link](#World-Launch-site-locations) | 22 | Text | [Link](#World-Launch-site-locations) | 33 | Text | [Link](#World-Launch-site-locations) |
-
+| NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK |
+| :----: | :---: | :--: | :----: | :---: | :--: | :----: | :---: | :--: |
+| 01 | World Launch sites | [Link](#World-Launch-site-locations) | 13 | Text | [Link](#World-Launch-site-locations) | 25 | Text | [Link](#World-Launch-site-locations) |
+| 02 | USA Launch sites | [Link](#USA-Launch-site-locations) | 14 | Text | [Link](#World-Launch-site-locations)| 26 | Text | [Link](#World-Launch-site-locations) |
+| 03 |  Launch sites distances | [Link](#Launch-sites-with-distance-lines) | 15 | Text | [Link](#World-Launch-site-locations) | 27 | Text | [Link](#World-Launch-site-locations) |
+| 04 | Launch sites outcomes | [Link](#Launch-sites-with-outcome-markers) | 16 | Text | [Link](#World-Launch-site-locations) | 28 | Text | [Link](#World-Launch-site-locations) |
+| 05 | Text | [Link](#World-Launch-site-locations) | 17 | Text | [Link](#World-Launch-site-locations) | 29 | Text | [Link](#World-Launch-site-locations) |
+| 06 | Text | [Link](#World-Launch-site-locations) | 18 | Text | [Link](#World-Launch-site-locations) | 30 | Text | [Link](#World-Launch-site-locations) |
+| 07 | Text | [Link](#World-Launch-site-locations) | 19 | Text | [Link](#World-Launch-site-locations) | 31 | Text | [Link](#World-Launch-site-locations) |
+| 08 | Text | [Link](#World-Launch-site-locations) | 20 | Text | [Link](#World-Launch-site-locations) | 32 | Text | [Link](#World-Launch-site-locations) |
+| 09 | Text | [Link](#World-Launch-site-locations) | 21 | Text | [Link](#World-Launch-site-locations) | 33 | Text | [Link](#World-Launch-site-locations) |
+| 10 | Text | [Link](#World-Launch-site-locations) | 22 | Text | [Link](#World-Launch-site-locations) | 34 | Text | [Link](#World-Launch-site-locations) |
+| 11 | Text | [Link](#World-Launch-site-locations) | 23 | Text | [Link](#World-Launch-site-locations) |
+| 12 | Text | [Link](#World-Launch-site-locations) | 24 | Text | [Link](#World-Launch-site-locations) |
 
 ## Folium Maps
 
