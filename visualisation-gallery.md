@@ -75,7 +75,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ![bar chat Landing success rate by orbit types](Images/Charts/Scatterplot_payloadmass_Vs_launchsite.png)
 
-^ *Scatter plot showing relationship between launch site and payload mass*
+^ *Scatter plot showing relationship between launch site and payload mass 0=fail 1=success*
 
 
 ## SQL Queries
