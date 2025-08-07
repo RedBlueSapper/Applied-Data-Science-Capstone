@@ -6,7 +6,7 @@ Sections:
 2. [Charts](##Charts)
 3. [SQL](##SQL-Queries)
 4. [Dashboards](##Dashboards)
-5. [Modelling](##Modelling-Outcomes)
+5. [Modelling](##modelling)
   
 Image List
 
