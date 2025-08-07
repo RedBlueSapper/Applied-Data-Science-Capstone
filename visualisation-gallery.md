@@ -12,33 +12,28 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
  NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK |
  | :---: | :---- | :--- | :---: | :---- | :--- | :---: | :---- | :--- |
- | 01 | Text | x,xxx | 13 | Text | x,xxx | 24 | Text | x,xxx |
- | 02 | Text | x,xxx | 14 | Text | x,xxx | 25 | Text | x,xxx |
- | 04 | Text | x,xxx | 15 | Text | x,xxx | 26 | Text | x,xxx |
- | 05 | Text | x,xxx | 16 | Text | x,xxx | 27 | Text | x,xxx |
- | 06 | Text | x,xxx | 17 | Text | x,xxx | 28 | Text | x,xxx |
- | 07 | Text | x,xxx | 18 | Text | x,xxx | 29 | Text | x,xxx |
- | 08 | Text | x,xxx | 19 | Text | x,xxx | 30 | Text | x,xxx |
- | 09 | Text | x,xxx | 20 | Text | x,xxx | 31 | Text | x,xxx |
- | 10 | Text | x,xxx | 21 | Text | x,xxx | 32 | Text | x,xxx |
- | 11 | Text | x,xxx | 22 | Text | x,xxx | 33 | Text | x,xxx |
- | 12 | Text | x,xxx | 23 | Text | x,xxx | 34 | Text | x,xxx |
+ | 01 | World Launch sites | [Link](#World-Launch-site-locations) | 12 | Text | [Link](#World-Launch-site-locations) | 23 | Text | [Link](#World-Launch-site-locations) |
+ | 02 | USA Launch sites | [Link](#USA-Launch-site-locations) | 13 | Text | [Link](#World-Launch-site-locations)| 24 | Text | [Link](#World-Launch-site-locations) |
+ | 03 | Text | [Link](#World-Launch-site-locations) | 14 | Text | [Link](#World-Launch-site-locations) | 25 | Text | [Link](#World-Launch-site-locations) |
+ | 04 | Text | [Link](#World-Launch-site-locations) | 15 | Text | [Link](#World-Launch-site-locations) | 26 | Text | [Link](#World-Launch-site-locations) |
+ | 05 | Text | [Link](#World-Launch-site-locations) | 16 | Text | [Link](#World-Launch-site-locations) | 27 | Text | [Link](#World-Launch-site-locations) |
+ | 06 | Text | [Link](#World-Launch-site-locations) | 17 | Text | [Link](#World-Launch-site-locations) | 28 | Text | [Link](#World-Launch-site-locations) |
+ | 07 | Text | [Link](#World-Launch-site-locations) | 18 | Text | [Link](#World-Launch-site-locations) | 29 | Text | [Link](#World-Launch-site-locations) |
+ | 08 | Text | [Link](#World-Launch-site-locations) | 19 | Text | [Link](#World-Launch-site-locations) | 30 | Text | [Link](#World-Launch-site-locations) |
+ | 09 | Text | [Link](#World-Launch-site-locations) | 20 | Text | [Link](#World-Launch-site-locations) | 31 | Text | [Link](#World-Launch-site-locations) |
+ | 10 | Text | [Link](#World-Launch-site-locations) | 21 | Text | [Link](#World-Launch-site-locations) | 32 | Text | [Link](#World-Launch-site-locations) |
+ | 11 | Text | [Link](#World-Launch-site-locations) | 22 | Text | [Link](#World-Launch-site-locations) | 33 | Text | [Link](#World-Launch-site-locations) |
 
 
 ## Folium Maps
 
-Folium_maps_outcome_markers.png
-
-Folium_worldmap_markers_launchsites_zoomin.png
-
-folium_maps_distance_lines.png
-
-### Launch site locashens:
+### World Launch site locations:
 
 ![folium world map showing launch locations](Images/Folium/Folium_Worldmap.png)
 
 ^ *World map showing SpaceX launch locations*
 
+### USA Launch site locations:
 
 ![folium USA map showing launch locations](Images/Folium/Folium_worldmap_markers_launchsites_zoomin.png)
 
