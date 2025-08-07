@@ -1,22 +1,20 @@
 # Visualisations Gallery
 This page contains all charts, dashboards, and screenshots from the Data Science Capstone Project.
 
-## Sections:
+Sections:
 1. [Folium Maps](##Folium-Maps)
 2. [Charts](##Charts)
 3. [SQL](##SQL-Queries)
-4. [Dashbords](##Dashboards)
+4. [Dashboards](##Dashboards)
 5. [Modelling](##Modelling-Outcomes)
-
-* Placeholder for Table of Contents (Must not be removed)
-* {:toc}
-
-## Image List
+  
+Image List
 
  NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK |
  | :---: | :---- | :--- | :---: | :---- | :--- | :---: | :---- | :--- |
  | 01| Title | x,xxx |
  | 02 | Text | x,xxx |
+
 
 ## Folium Maps
 
@@ -70,6 +68,7 @@ First Successful Ground Landing:![SQL First Ground Landing](Images/SQL first gro
 ## Dashboards
 
 All Launch Sites:Dashboard showing success rates across all launch sites.
+
 
 KSC LC-39A:Dashboard for KSC LC-39A success rates.
 
