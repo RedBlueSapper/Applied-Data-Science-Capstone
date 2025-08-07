@@ -67,13 +67,15 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ### Yearly Success Trend:
 
+![bar chat Landing success rate by orbit types](Images/Charts/Line_plot_launch_success_yearly_trend.png)
 
 ^ *Line chart showing landing success trends from 2010 to 2020*
 
-### Flight Number vs Payload Mass:
+### Launch Site vs Payload Mass:
 
+![bar chat Landing success rate by orbit types](Images/Charts/Scatterplot_payloadmass_Vs_launchsite.png)
 
-^ *Scatter plot showing relationship between flight number and payload mass*
+^ *Scatter plot showing relationship between launch site and payload mass*
 
 
 ## SQL Queries
