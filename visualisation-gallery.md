@@ -60,6 +60,7 @@ folium_maps_distance_lines.png
 
 ^ *Launch site KSC LC-39A Map with colour-coded landing outcomes (green for success, red for failure)*
 
+---
 
 ## Charts
 
