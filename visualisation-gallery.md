@@ -1,14 +1,14 @@
 # Visualisations Gallery
 This page contains all charts, dashboards, and screenshots from the Data Science Capstone Project.
 
-Sections:
+## Sections:
 1. [Folium Maps](#Folium-Maps)
 2. [Charts](#Charts)
 3. [SQL](#SQL-Queries)
 4. [Dashboards](#Dashboards)
 5. [Modelling](#Modelling-Outcomes)
   
-Image List
+## Image List
 
  NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK |
  | :---: | :---- | :--- | :---: | :---- | :--- | :---: | :---- | :--- |
@@ -37,25 +37,28 @@ folium_maps_distance_lines.png
 
 ![folium world map showing launch locations](Images/Folium/Folium_Worldmap.png)
 
-^
-*World map showing SpaceX launch locations*
+^ *World map showing SpaceX launch locations*
 
 
 ![folium USA map showing launch locations](Images/Folium/Folium_worldmap_markers_launchsites_zoomin.png)
 
-^*Map of the USA showing SpaceX launch locations*
+^ *USA Map showing SpaceX launch locations*
 
 ---
 
 ### Launch sites with distance lines:
 
-Map showing distances from CCAFS SLC-40 to nearby infrastructure.
+![folium Launch site map showing distance lines](Images/Folium/folium_maps_distance_lines.png)
 
-Launch sites with outcome markers:
+^ *Launch site CCAFS SLC-40 Map showing distances to nearby infrastructure*
 
-![Folium Map with Outcome Markers](Images/Folium maps outcome markers.png)
+---
 
-Map with colour-coded landing outcomes (green for success, red for failure).
+### Launch sites with outcome markers:
+
+![folium Launch site map showing distance lines](Images/Folium/Folium_maps_outcome_markers.png)
+
+^ *Launch site KSC LC-39A Map with colour-coded landing outcomes (green for success, red for failure)*
 
 
 ## Charts
