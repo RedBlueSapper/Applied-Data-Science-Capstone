@@ -2,11 +2,11 @@
 This page contains all charts, dashboards, and screenshots from the Data Science Capstone Project.
 
 Sections:
-1. [Folium Maps](##Folium-Maps)
-2. [Charts](##Charts)
-3. [SQL](##SQL-Queries)
-4. [Dashboards](##Dashboards)
-5. [Modelling](##modelling)
+1. [Folium Maps](#Folium-Maps)
+2. [Charts](#Charts)
+3. [SQL](#SQL-Queries)
+4. [Dashboards](#Dashboards)
+5. [Modelling](#Modelling-Outcomes)
   
 Image List
 
@@ -72,6 +72,6 @@ All Launch Sites:Dashboard showing success rates across all launch sites.
 
 KSC LC-39A:Dashboard for KSC LC-39A success rates.
 
-<a id="modelling"></a> ## Modelling Outcomes
+## Modelling Outcomes
 
 
