@@ -31,13 +31,13 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ![folium world map showing launch locations](Images/Folium/Folium_Worldmap.png)
 
-^ *World map showing SpaceX launch locations*
+^ *Fig 01, World map showing SpaceX launch locations*
 
 ### USA Launch site locations:
 
 ![folium USA map showing launch locations](Images/Folium/Folium_worldmap_markers_launchsites_zoomin.png)
 
-^ *USA Map showing SpaceX launch locations*
+^ *Fig 02, USA Map showing SpaceX launch locations*
 
 ---
 
@@ -45,15 +45,15 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ![folium Launch site map showing distance lines](Images/Folium/folium_maps_distance_lines.png)
 
-^ *Launch site CCAFS SLC-40 Map showing distances to nearby infrastructure*
+^ *Fig 03, Launch site CCAFS SLC-40 Map showing distances to nearby infrastructure*
 
 ---
 
-### Launch sites with outcome markers:
+### 04 Launch sites with outcome markers:
 
 ![folium Launch site map showing distance lines](Images/Folium/Folium_maps_outcome_markers.png)
 
-^ *Launch site KSC LC-39A Map with colour-coded landing outcomes (green for success, red for failure)*
+^ *Fig 04, Launch site KSC LC-39A Map with colour-coded landing outcomes (green for success, red for failure)*
 
 ---
 
@@ -63,19 +63,19 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ![bar chat Landing success rate by orbit types](Images/Charts/Bar_chart_orbit_Vs_successrate.png)
 
-^ *Bar chart comparing landing success rates by orbit type*
+^ *Fig 05, Bar chart comparing landing success rates by orbit type*
 
 ### Yearly Success Trend:
 
 ![bar chat Landing success rate by orbit types](Images/Charts/Line_plot_launch_success_yearly_trend.png)
 
-^ *Line chart showing landing success trends from 2010 to 2020*
+^ *Fig 06, Line chart showing landing success trends from 2010 to 2020*
 
 ### Launch Site vs Payload Mass:
 
 ![bar chat Landing success rate by orbit types](Images/Charts/Scatterplot_payloadmass_Vs_launchsite.png)
 
-^ *Scatter plot showing relationship between launch site and payload mass 0=fail 1=success*
+^ *Fig 07, Scatter plot showing relationship between launch site and payload mass 0=fail 1=success*
 
 
 ## SQL Queries
