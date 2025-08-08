@@ -17,8 +17,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 | 03 |  Launch sites distances | [Link](#Launch-sites-with-distance-lines) | 15 | Text | [Link](#World-Launch-site-locations) | 27 | Text | [Link](#World-Launch-site-locations) |
 | 04 | Launch sites outcomes | [Link](#Launch-sites-with-outcome-markers) | 16 | Text | [Link](#World-Launch-site-locations) | 28 | Text | [Link](#World-Launch-site-locations) |
 | 05 | Orbit vs Success Rate | [Link](#Orbit-vs-Success-Rate) | 17 | Text | [Link](#World-Launch-site-locations) | 29 | Text | [Link](#World-Launch-site-locations) |
-| 06 | Text | [Link](#World-Launch-site-locations) | 18 | Text | [Link](#World-Launch-site-locations) | 30 | Text | [Link](#World-Launch-site-locations) |
-| 07 | Text | [Link](#World-Launch-site-locations) | 19 | Text | [Link](#World-Launch-site-locations) | 31 | Text | [Link](#World-Launch-site-locations) |
+| 06 | Yearly Success Trend | [Link](#Yearly-Success-Trend) | 18 | Text | [Link](#World-Launch-site-locations) | 30 | Text | [Link](#World-Launch-site-locations) |
+| 07 | Launch Site vs Payload Mass | [Link](#Launch-Site-vs-Payload-Mass) | 19 | Text | [Link](#World-Launch-site-locations) | 31 | Text | [Link](#World-Launch-site-locations) |
 | 08 | Text | [Link](#World-Launch-site-locations) | 20 | Text | [Link](#World-Launch-site-locations) | 32 | Text | [Link](#World-Launch-site-locations) |
 | 09 | Text | [Link](#World-Launch-site-locations) | 21 | Text | [Link](#World-Launch-site-locations) | 33 | Text | [Link](#World-Launch-site-locations) |
 | 10 | Text | [Link](#World-Launch-site-locations) | 22 | Text | [Link](#World-Launch-site-locations) | 34 | Text | [Link](#World-Launch-site-locations) |
@@ -69,7 +69,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ### Yearly Success Trend:
 
-![Line chat Yearly Success Trend](Images/Charts/Line_plot_launch_success_yearly_trend.png)
+![Line chat Yearly Success Trend](Images/Charts/Line_plot_landing_success_yearly_trend.png)
 
 ^ *Fig 06, Line chart showing landing success trends from 2010 to 2020*
 
@@ -83,6 +83,45 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ---
 
+### Launch Site vs Payload Mass:
+
+![scatter plot Launch Site vs Payload Mass](Images/Charts/Scatterplot_Flightnumber_Vs_payloadmass.png)
+
+^ *Fig 08, Scatter plot showing relationship between launch site and payload mass 0=fail 1=success*
+
+---
+
+### Launch Site vs Payload Mass:
+
+![scatter plot Launch Site vs Payload Mass](Images/Charts/Scatterplot_flightnumber_Vs_launchsite.png)
+
+^ *Fig 09, Scatter plot showing relationship between launch site and payload mass 0=fail 1=success*
+
+---
+
+### Launch Site vs Payload Mass:
+
+![scatter plot Launch Site vs Payload Mass](Images/Charts/Scatterplot_flightnumber_Vs_orbittype.png)
+
+^ *Fig 10, Scatter plot showing relationship between launch site and payload mass 0=fail 1=success*
+
+---
+
+### Launch Site vs Payload Mass:
+
+![scatter plot Launch Site vs Payload Mass](Images/Charts/Scatterplot_payloadmass_Vs_launchsite.png)
+
+^ *Fig 11, Scatter plot showing relationship between launch site and payload mass 0=fail 1=success*
+
+---
+
+### Launch Site vs Payload Mass:
+
+![scatter plot Launch Site vs Payload Mass](Images/Charts/Scatterplot_payloadmass_Vs_launchsite.png)
+
+^ *Fig 12, Scatter plot showing relationship between launch site and payload mass 0=fail 1=success*
+
+---
 
 ## SQL Queries
 
