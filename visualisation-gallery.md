@@ -79,7 +79,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ![scatter plot Launch Site vs Payload Mass](Images/Charts/Scatterplot_payloadmass_Vs_launchsite.png)
 
-^ *Fig 07, Scatter plot showing the relationship between launch site and payload mass 0=fail 1=success*
+^ *Fig 07, Scatter plot showing the relationship between launch site and payload mass (0=fail, 1=success)*
 
 ---
 
@@ -87,7 +87,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ![scatter plot Launch Site vs Payload Mass](Images/Charts/Scatterplot_Flightnumber_Vs_payloadmass.png)
 
-^ *Fig 08, Scatter plot showing the relationship between the Flight Number and Payload Mass*
+^ *Fig 08, Scatter plot showing the relationship between the Flight Number and Payload Mass (0=fail, 1=success)*
 
 ---
 
@@ -95,7 +95,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ![scatter plot Launch Site vs Payload Mass](Images/Charts/Scatterplot_flightnumber_Vs_launchsite.png)
 
-^ *Fig 09, Scatter plot showing the relationship between the Flight Number and Launch Site*
+^ *Fig 09, Scatter plot showing the relationship between the Flight Number and Launch Site (0=fail, 1=success)*
 
 ---
 
@@ -103,7 +103,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ![scatter plot Launch Site vs Payload Mass](Images/Charts/Scatterplot_flightnumber_Vs_orbittype.png)
 
-^ *Fig 10, Scatter plot showing the relationship between the Flight Number and Orbit Type*
+^ *Fig 10, Scatter plot showing the relationship between the Flight Number and Orbit Type (0=fail, 1=success)*
 
 ---
 
@@ -111,7 +111,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ![scatter plot Launch Site vs Payload Mass](Images/Charts/Scatterplot_payloadmass_Vs_launchsite.png)
 
-^ *Fig 11, Scatter plot showing relationship between launch site and payload mass 0=fail 1=success*
+^ *Fig 11, Scatter plot showing relationship between launch site and payload mass (0=fail, 1=success)*
 
 ---
 
@@ -119,7 +119,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ![scatter plot Launch Site vs Payload Mass](Images/Charts/Scatterplot_payloadmass_Vs_launchsite.png)
 
-^ *Fig 12, Scatter plot showing relationship between launch site and payload mass 0=fail 1=success*
+^ *Fig 12, Scatter plot showing relationship between launch site and payload mass (0=fail, 1=success)*
 
 ---
 
