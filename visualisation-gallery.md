@@ -117,7 +117,13 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ## SQL QUERIES
 
-Unique Launch Sites:![SQL Unique Launch Sites](Images/Sql unique launch sites.png)Query result showing all unique SpaceX launch sites.
+### Unique Launch Sites:
+
+![SQL Query Unique Launch Sites image](Images/SQL/Sql_unique_launchsites.png)
+
+^ *Fig 12, SQL Query result showing all unique SpaceX launch sites*
+
+---
 
 First Successful Ground Landing:![SQL First Ground Landing](Images/SQL first groung landing.png)Query result showing the date of the first successful ground pad landing.
 
