@@ -163,13 +163,11 @@ Success rate by orbit type:
   - Rank the count of landing outcomes, between the dates 2010-06-04 and 2017-03-20, in descending order.
  
 ### Interactive maps with folium:
-- Added:
-  - launch sites with
-    - circles
-    - markers
-    - text
-    - pop-ups 
-  - NASA’s Johnson Space Centre
+- Added launch sites with:
+  - circles
+  - markers
+  - text
+  - pop-ups 
     
 *This improves visibility and makes it easy to identify each launch site and its location.* 
 
@@ -186,7 +184,7 @@ Success rate by orbit type:
     - highway
     - coastline
       
-*This shows the proximity of the different locations to launch sites and allows us to draw conclusions through visuals.*
+*This shows the proximity of the different areas to launch sites and allows us to draw conclusions with visuals.*
 
 ### Dashboard with plotly dash:
 - Added:
