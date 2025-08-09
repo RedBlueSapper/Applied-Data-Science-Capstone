@@ -115,14 +115,6 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ---
 
-### Launch Site vs Payload Mass:
-
-![scatter plot Launch Site vs Payload Mass](Images/Charts/Scatterplot_payloadmass_Vs_launchsite.png)
-
-^ *Fig 12, Scatter plot showing relationship between launch site and payload mass (0=fail, 1=success)*
-
----
-
 ## SQL Queries
 
 Unique Launch Sites:![SQL Unique Launch Sites](Images/Sql unique launch sites.png)Query result showing all unique SpaceX launch sites.
