@@ -1,14 +1,14 @@
 # Visualisations Gallery
 This page contains all charts, dashboards, and screenshots from the Data Science Capstone Project.
 
-## Sections:
-1. [Folium Maps](#Folium-Maps)
+## SECTIONS:
+1. [Folium Maps](#FOLIUM-MAPS)
 2. [Charts](#Charts)
 3. [SQL](#SQL-Queries)
 4. [Dashboards](#Dashboards)
 5. [Modelling](#Modelling-Outcomes)
   
-## Image List
+## IMAGE LIST
 
 | NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK |
 | :----: | :---: | :--: | :----: | :---: | :--: | :----: | :---: | :--: |
@@ -25,7 +25,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 | 11 | Payload Mass vs Orbit Type | [Link](#Payload-Mass-vs-Orbit-Type) | 23 | Text | [Link](#World-Launch-site-locations) |
 | 12 | Text | [Link](#World-Launch-site-locations) | 24 | Text | [Link](#World-Launch-site-locations) |
 
-## Folium Maps
+## FOLIUM MAPS
 
 ### World Launch site locations:
 
@@ -57,7 +57,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ---
 
-## Charts
+## CHARTS
 
 ### Orbit vs Success Rate:
 
@@ -115,19 +115,19 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ---
 
-## SQL Queries
+## SQL QUERIES
 
 Unique Launch Sites:![SQL Unique Launch Sites](Images/Sql unique launch sites.png)Query result showing all unique SpaceX launch sites.
 
 First Successful Ground Landing:![SQL First Ground Landing](Images/SQL first groung landing.png)Query result showing the date of the first successful ground pad landing.
 
 
-## Dashboards
+## DASHBOARD
 
-All Launch Sites:Dashboard showing success rates across all launch sites.
+All Launch Sites: Dashboard showing success rates across all launch sites.
 
 
-KSC LC-39A:Dashboard for KSC LC-39A success rates.
+KSC LC-39A: Dashboard for KSC LC-39A success rates.
 
 ## Modelling Outcomes
 
