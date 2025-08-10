@@ -14,8 +14,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 | :----: | :---: | :--: | :----: | :---: | :--: | :----: | :---: | :--: |
 | 01 | World launch sites | [Link](#World-Launch-site-locations) | 13 | Launch Sites with String 'CCA' | [Link](#Launch-Sites-with-String) | 25 | Text | [Link](#World-Launch-site-locations) |
 | 02 | USA launch sites | [Link](#USA-Launch-site-locations) | 14 | Payload Mass Carried by NASA | [Link](#Payload-Mass-Carried-by-NASA)| 26 | Text | [Link](#World-Launch-site-locations) |
-| 03 |  Launch sites distances | [Link](#Launch-sites-with-distance-lines) | 15 | Average Payload Booster F9 v1.1 | [Link](Average-Payload-Booster-F9-v1.1) | 27 | Text | [Link](#World-Launch-site-locations) |
-| 04 | Launch sites outcomes | [Link](#Launch-sites-with-outcome-markers) | 16 | First Successful Landing | [Link](First-Successful-Landing) | 28 | Text | [Link](#World-Launch-site-locations) |
+| 03 |  Launch sites distances | [Link](#Launch-sites-with-distance-lines) | 15 | Average Payload for Booster | [Link](#Average-Payload-for-Booster) | 27 | Text | [Link](#World-Launch-site-locations) |
+| 04 | Launch sites outcomes | [Link](#Launch-sites-with-outcome-markers) | 16 | First Successful Landing | [Link](#First-Successful-Landing) | 28 | Text | [Link](#World-Launch-site-locations) |
 | 05 | Orbit vs Success Rate | [Link](#Orbit-vs-Success-Rate) | 17 | Successful Drone Ship Landings | [Link](#Successful-Drone-Ship-Landings) | 29 | Text | [Link](#World-Launch-site-locations) |
 | 06 | Yearly Success Trend | [Link](#Yearly-Success-Trend) | 18 | Text | [Link](#World-Launch-site-locations) | 30 | Text | [Link](#World-Launch-site-locations) |
 | 07 | Launch Site vs Payload Mass | [Link](#Launch-Site-vs-Payload-Mass) | 19 | Text | [Link](#World-Launch-site-locations) | 31 | Text | [Link](#World-Launch-site-locations) |
@@ -141,7 +141,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ---
 
-### Average Payload Booster F9 v1.1:
+### Average Payload for Booster:
 
 ![Image, SQL Query average payload mass carried by booster version F9 v1.1](Images/SQL/SQL_first_groundlanding.png)
 
