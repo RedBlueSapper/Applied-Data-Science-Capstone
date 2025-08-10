@@ -12,7 +12,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 | NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK |
 | :----: | :---: | :--: | :----: | :---: | :--: | :----: | :---: | :--: |
-| 01 | World launch sites | [Link](#World-Launch-site-locations) | 13 | Text | [Link](#World-Launch-site-locations) | 25 | Text | [Link](#World-Launch-site-locations) |
+| 01 | World launch sites | [Link](#World-Launch-site-locations) | 13 | Launch Sites, String 'CCA' | [Link](#Launch-Sites,-String-'CCA') | 25 | Text | [Link](#World-Launch-site-locations) |
 | 02 | USA launch sites | [Link](#USA-Launch-site-locations) | 14 | Text | [Link](#World-Launch-site-locations)| 26 | Text | [Link](#World-Launch-site-locations) |
 | 03 |  Launch sites distances | [Link](#Launch-sites-with-distance-lines) | 15 | Text | [Link](#World-Launch-site-locations) | 27 | Text | [Link](#World-Launch-site-locations) |
 | 04 | Launch sites outcomes | [Link](#Launch-sites-with-outcome-markers) | 16 | Text | [Link](#World-Launch-site-locations) | 28 | Text | [Link](#World-Launch-site-locations) |
@@ -23,7 +23,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 | 09 | Flight Number vs Launch Site | [Link](#Flight-Number-vs-Launch-Site) | 21 | Text | [Link](#World-Launch-site-locations) | 33 | Text | [Link](#World-Launch-site-locations) |
 | 10 | Flight Number vs Orbit Type | [Link](#Flight-Number-vs-Orbit-Type) | 22 | Text | [Link](#World-Launch-site-locations) | 34 | Text | [Link](#World-Launch-site-locations) |
 | 11 | Payload Mass vs Orbit Type | [Link](#Payload-Mass-vs-Orbit-Type) | 23 | Text | [Link](#World-Launch-site-locations) |
-| 12 | Text | [Link](#World-Launch-site-locations) | 24 | Text | [Link](#World-Launch-site-locations) |
+| 12 | Unique Launch Sites | [Link](#Unique-Launch-Sites) | 24 | Text | [Link](#World-Launch-site-locations) |
 
 ## FOLIUM MAPS
 
@@ -119,14 +119,51 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ### Unique Launch Sites:
 
-![SQL Query Unique Launch Sites image](Images/SQL/Sql_unique_launchsites.png)
+![Image, SQL Query Unique Launch Sites](Images/SQL/Sql_unique_launchsites.png)
 
 ^ *Fig 12, SQL Query result showing all unique SpaceX launch sites*
 
 ---
 
-First Successful Ground Landing:![SQL First Ground Landing](Images/SQL first groung landing.png)Query result showing the date of the first successful ground pad landing.
+### Launch Sites, String 'CCA':
 
+![Image, SQL Query 5 records where launch sites begin with the string 'CCA'](Images/SQL/SQL_5_records_CCA.png)
+
+^ *Fig 13, SQL Query result showing 5 records where launch sites begin with the string 'CCA'*
+
+---
+
+### Unique Launch Sites:
+
+![SQL Query Unique Launch Sites image](Images/SQL/Sql_unique_launchsites.png)
+
+^ *Fig 14, SQL Query result showing all unique SpaceX launch sites*
+
+---
+
+### Unique Launch Sites:
+
+![SQL Query Unique Launch Sites image](Images/SQL/Sql_unique_launchsites.png)
+
+^ *Fig 15, SQL Query result showing all unique SpaceX launch sites*
+
+---
+
+### Unique Launch Sites:
+
+![SQL Query Unique Launch Sites image](Images/SQL/Sql_unique_launchsites.png)
+
+^ *Fig 16, SQL Query result showing all unique SpaceX launch sites*
+
+---
+
+### Unique Launch Sites:
+
+![SQL Query Unique Launch Sites image](Images/SQL/Sql_unique_launchsites.png)
+
+^ *Fig 17, SQL Query result showing all unique SpaceX launch sites*
+
+---
 
 ## DASHBOARD
 
