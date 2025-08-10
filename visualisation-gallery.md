@@ -17,10 +17,10 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 | 03 |  Launch sites distances | [Link](#Launch-sites-with-distance-lines) | 15 | Average Payload for Booster | [Link](#Average-Payload-for-Booster) | 27 | Text | [Link](#World-Launch-site-locations) |
 | 04 | Launch sites outcomes | [Link](#Launch-sites-with-outcome-markers) | 16 | First Successful Landing | [Link](#First-Successful-Landing) | 28 | Text | [Link](#World-Launch-site-locations) |
 | 05 | Orbit vs Success Rate | [Link](#Orbit-vs-Success-Rate) | 17 | Successful Drone Ship Landings | [Link](#Successful-Drone-Ship-Landings) | 29 | Text | [Link](#World-Launch-site-locations) |
-| 06 | Yearly Success Trend | [Link](#Yearly-Success-Trend) | 18 | Text | [Link](#World-Launch-site-locations) | 30 | Text | [Link](#World-Launch-site-locations) |
-| 07 | Launch Site vs Payload Mass | [Link](#Launch-Site-vs-Payload-Mass) | 19 | Text | [Link](#World-Launch-site-locations) | 31 | Text | [Link](#World-Launch-site-locations) |
-| 08 | Flight Number vs Payload Mass | [Link](#Flight-Number-vs-Payload-Mass) | 20 | Text | [Link](#World-Launch-site-locations) | 32 | Text | [Link](#World-Launch-site-locations) |
-| 09 | Flight Number vs Launch Site | [Link](#Flight-Number-vs-Launch-Site) | 21 | Text | [Link](#World-Launch-site-locations) | 33 | Text | [Link](#World-Launch-site-locations) |
+| 06 | Yearly Success Trend | [Link](#Yearly-Success-Trend) | 18 | Successful and Failed Outcomes | [Link](#Successful-and-Failed-Outcomes) | 30 | Text | [Link](#World-Launch-site-locations) |
+| 07 | Launch Site vs Payload Mass | [Link](#Launch-Site-vs-Payload-Mass) | 19 | Boosters Carring Max Payloads | [Link](#Boosters-Carring-Max-Payloads) | 31 | Text | [Link](#World-Launch-site-locations) |
+| 08 | Flight Number vs Payload Mass | [Link](#Flight-Number-vs-Payload-Mass) | 20 | drone ship landing failure | [Link](#drone-ship-landing-failure) | 32 | Text | [Link](#World-Launch-site-locations) |
+| 09 | Flight Number vs Launch Site | [Link](#Flight-Number-vs-Launch-Site) | 21 | Ranking Landing Outcomes | [Link](#Ranking-Landing-Outcomes) | 33 | Text | [Link](#World-Launch-site-locations) |
 | 10 | Flight Number vs Orbit Type | [Link](#Flight-Number-vs-Orbit-Type) | 22 | Text | [Link](#World-Launch-site-locations) | 34 | Text | [Link](#World-Launch-site-locations) |
 | 11 | Payload Mass vs Orbit Type | [Link](#Payload-Mass-vs-Orbit-Type) | 23 | Text | [Link](#World-Launch-site-locations) |
 | 12 | Unique Launch Sites | [Link](#Unique-Launch-Sites) | 24 | Text | [Link](#World-Launch-site-locations) |
@@ -165,21 +165,35 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ---
 
-![Image, SQL Query total payload mass carried by boosters launched by NASA](Images/SQL/SQL_total_payloadmass_NASA.png)
+### Successful and Failed Outcomes:
 
-^ *Fig 18, SQL Query result showing the total payload mass carried by boosters launched by NASA (CRS)*
+![Image, SQL Query total number of successful and failed mission outcomes](Images/SQL/SQL_total_successful_missions.png)
 
----
-
-![Image, SQL Query total payload mass carried by boosters launched by NASA](Images/SQL/SQL_total_payloadmass_NASA.png)
-
-^ *Fig 19, SQL Query result showing the total payload mass carried by boosters launched by NASA (CRS)*
+^ *Fig 18, SQL Query result showing the total number of successful and failed mission outcomes*
 
 ---
 
-![Image, SQL Query total payload mass carried by boosters launched by NASA](Images/SQL/SQL_total_payloadmass_NASA.png)
+### Boosters Carring Max Payloads:
 
-^ *Fig 20, SQL Query result showing the total payload mass carried by boosters launched by NASA (CRS)*
+![Image, SQL Query Boosters Carring Max Payloads](Images/SQL/SQL_booster_carry_max_payload.png)
+
+^ *Fig 19, SQL Query result showing the booster versions that have carried the maximum payload mass (subquery)*
+
+---
+
+### drone ship landing failure:
+
+![Image, SQL Query drone ship landing failure 2015](Images/SQL/SQL_2015_launach.png)
+
+^ *Fig 20, SQL Query result that will display the month names, failure landing outcomes on drone ships, booster versions, and launch site for the months in the year 2015*
+
+---
+
+### Ranking Landing Outcomes:
+
+![Image, SQL Query result Ranking the count of landing outcomes](Images/SQL/SQL_rank_2010_to_2017.png)
+
+^ *Fig 21, SQL Query result Ranking the count of landing outcomes, such as Failure (drone ship) or Success (ground pad), between the dates 2010-06-04 and 2017-03-20, in descending order*
 
 ---
 
