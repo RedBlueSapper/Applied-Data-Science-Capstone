@@ -13,10 +13,10 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 | NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK |
 | :----: | :---: | :--: | :----: | :---: | :--: | :----: | :---: | :--: |
 | 01 | World launch sites | [Link](#World-Launch-site-locations) | 13 | Launch Sites with String 'CCA' | [Link](#Launch-Sites-with-String) | 25 | Text | [Link](#World-Launch-site-locations) |
-| 02 | USA launch sites | [Link](#USA-Launch-site-locations) | 14 | Text | [Link](#World-Launch-site-locations)| 26 | Text | [Link](#World-Launch-site-locations) |
-| 03 |  Launch sites distances | [Link](#Launch-sites-with-distance-lines) | 15 | Text | [Link](#World-Launch-site-locations) | 27 | Text | [Link](#World-Launch-site-locations) |
-| 04 | Launch sites outcomes | [Link](#Launch-sites-with-outcome-markers) | 16 | Text | [Link](#World-Launch-site-locations) | 28 | Text | [Link](#World-Launch-site-locations) |
-| 05 | Orbit vs Success Rate | [Link](#Orbit-vs-Success-Rate) | 17 | Text | [Link](#World-Launch-site-locations) | 29 | Text | [Link](#World-Launch-site-locations) |
+| 02 | USA launch sites | [Link](#USA-Launch-site-locations) | 14 | Payload Mass Carried by NASA | [Link](#Payload-Mass-Carried-by-NASA)| 26 | Text | [Link](#World-Launch-site-locations) |
+| 03 |  Launch sites distances | [Link](#Launch-sites-with-distance-lines) | 15 | Average Payload Booster F9 v1.1 | [Link](Average-Payload-Booster-F9-v1.1) | 27 | Text | [Link](#World-Launch-site-locations) |
+| 04 | Launch sites outcomes | [Link](#Launch-sites-with-outcome-markers) | 16 | First Successful Landing | [Link](First-Successful-Landing) | 28 | Text | [Link](#World-Launch-site-locations) |
+| 05 | Orbit vs Success Rate | [Link](#Orbit-vs-Success-Rate) | 17 | Successful Drone Ship Landings | [Link](#Successful-Drone-Ship-Landings) | 29 | Text | [Link](#World-Launch-site-locations) |
 | 06 | Yearly Success Trend | [Link](#Yearly-Success-Trend) | 18 | Text | [Link](#World-Launch-site-locations) | 30 | Text | [Link](#World-Launch-site-locations) |
 | 07 | Launch Site vs Payload Mass | [Link](#Launch-Site-vs-Payload-Mass) | 19 | Text | [Link](#World-Launch-site-locations) | 31 | Text | [Link](#World-Launch-site-locations) |
 | 08 | Flight Number vs Payload Mass | [Link](#Flight-Number-vs-Payload-Mass) | 20 | Text | [Link](#World-Launch-site-locations) | 32 | Text | [Link](#World-Launch-site-locations) |
@@ -133,35 +133,53 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ---
 
-### Unique Launch Sites:
+### Payload Mass Carried by NASA:
 
-![SQL Query Unique Launch Sites image](Images/SQL/Sql_unique_launchsites.png)
+![Image, SQL Query total payload mass carried by boosters launched by NASA](Images/SQL/SQL_total_payloadmass_NASA.png)
 
-^ *Fig 14, SQL Query result showing all unique SpaceX launch sites*
-
----
-
-### Unique Launch Sites:
-
-![SQL Query Unique Launch Sites image](Images/SQL/Sql_unique_launchsites.png)
-
-^ *Fig 15, SQL Query result showing all unique SpaceX launch sites*
+^ *Fig 14, SQL Query result showing the total payload mass carried by boosters launched by NASA (CRS)*
 
 ---
 
-### Unique Launch Sites:
+### Average Payload Booster F9 v1.1:
 
-![SQL Query Unique Launch Sites image](Images/SQL/Sql_unique_launchsites.png)
+![Image, SQL Query average payload mass carried by booster version F9 v1.1](Images/SQL/SQL_first_groundlanding.png)
 
-^ *Fig 16, SQL Query result showing all unique SpaceX launch sites*
+^ *Fig 15, SQL Query result showing the average payload mass carried by booster version F9 v1.1*
 
 ---
 
-### Unique Launch Sites:
+### First Successful Landing:
 
-![SQL Query Unique Launch Sites image](Images/SQL/Sql_unique_launchsites.png)
+![Image, SQL Query first successful landing outcome](Images/SQL/SQL_first_groundlanding.png)
 
-^ *Fig 17, SQL Query result showing all unique SpaceX launch sites*
+^ *Fig 16, SQL Query result showing a date when the first successful landing outcome on a ground pad was achieved*
+
+---
+
+### Successful Drone Ship Landings:
+
+![Image, SQL Query Successful Drone Ship Landings greater than 4000 kg but less than 6000 kg](Images/SQL/SQL_boosters_droneship_4000_to_6000.png)
+
+^ *Fig 17, SQL Query result listing the names of the boosters that have been successful in drone ship landings and have a payload mass greater than 4000kg but less than 6000kg*
+
+---
+
+![Image, SQL Query total payload mass carried by boosters launched by NASA](Images/SQL/SQL_total_payloadmass_NASA.png)
+
+^ *Fig 18, SQL Query result showing the total payload mass carried by boosters launched by NASA (CRS)*
+
+---
+
+![Image, SQL Query total payload mass carried by boosters launched by NASA](Images/SQL/SQL_total_payloadmass_NASA.png)
+
+^ *Fig 19, SQL Query result showing the total payload mass carried by boosters launched by NASA (CRS)*
+
+---
+
+![Image, SQL Query total payload mass carried by boosters launched by NASA](Images/SQL/SQL_total_payloadmass_NASA.png)
+
+^ *Fig 20, SQL Query result showing the total payload mass carried by boosters launched by NASA (CRS)*
 
 ---
 
