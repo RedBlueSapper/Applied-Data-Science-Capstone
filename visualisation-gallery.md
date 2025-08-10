@@ -41,6 +41,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 02, USA Map showing SpaceX launch locations*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Launch sites with distance lines:
@@ -49,6 +51,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 03, Launch site CCAFS SLC-40 Map showing distances to nearby infrastructure*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Launch sites with outcome markers:
@@ -56,6 +60,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 ![folium Launch site map showing distance lines](Images/Folium/Folium_maps_outcome_markers.png)
 
 ^ *Fig 04, Launch site KSC LC-39A Map with colour-coded landing outcomes (green for success, red for failure)*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
 ---
 
@@ -67,6 +73,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 05, Bar chart comparing landing success rates by orbit type*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Yearly Success Trend:
@@ -74,6 +82,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 ![Line chat Yearly Success Trend](Images/Charts/Line_plot_landing_success_yearly_trend.png)
 
 ^ *Fig 06, Line chart showing the landing success trends from 2010 to 2020*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
 ---
 
@@ -83,6 +93,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 07, Scatter plot showing the relationship between launch site and payload mass (0=fail, 1=success)*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Flight Number vs Payload Mass:
@@ -90,6 +102,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 ![scatter plot Flight Number vs Payload Mass](Images/Charts/Scatterplot_Flightnumber_Vs_payloadmass.png)
 
 ^ *Fig 08, Scatter plot showing the relationship between the Flight Number and Payload Mass (0=fail, 1=success)*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
 ---
 
@@ -99,6 +113,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 09, Scatter plot showing the relationship between the Flight Number and Launch Site (0=fail, 1=success)*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Flight Number vs Orbit Type:
@@ -107,6 +123,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 10, Scatter plot showing the relationship between the Flight Number and Orbit Type (0=fail, 1=success)*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Payload Mass vs Orbit Type:
@@ -114,6 +132,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 ![scatter plot Launch Site vs Payload Mass](Images/Charts/scatterplot_payloadmass_Vs_orbittype.png)
 
 ^ *Fig 11, Scatter plot showing relationship between launch site and payload mass (0=fail, 1=success)*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
 ---
 
@@ -125,6 +145,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 12, SQL Query result showing all unique SpaceX launch sites*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Launch Sites with String:
@@ -132,6 +154,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 ![Image, SQL Query 5 records where launch sites begin with the string 'CCA'](Images/SQL/SQL_5_records_CCA.png)
 
 ^ *Fig 13, SQL Query result showing 5 records where launch sites begin with the string 'CCA'*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
 ---
 
@@ -141,6 +165,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 14, SQL Query result showing the total payload mass carried by boosters launched by NASA (CRS)*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Average Payload for Booster:
@@ -148,6 +174,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 ![Image, SQL Query average payload mass carried by booster version F9 v1.1](Images/SQL/SQL_first_groundlanding.png)
 
 ^ *Fig 15, SQL Query result showing the average payload mass carried by booster version F9 v1.1*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
 ---
 
@@ -157,6 +185,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 16, SQL Query result showing a date when the first successful landing outcome on a ground pad was achieved*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Successful Drone Ship Landings:
@@ -164,6 +194,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 ![Image, SQL Query Successful Drone Ship Landings greater than 4000 kg but less than 6000 kg](Images/SQL/SQL_boosters_droneship_4000_to_6000.png)
 
 ^ *Fig 17, SQL Query result listing the names of the boosters that have been successful in drone ship landings and have a payload mass greater than 4000kg but less than 6000kg*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
 ---
 
@@ -173,6 +205,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 18, SQL Query result showing the total number of successful and failed mission outcomes*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Boosters Carring Max Payloads:
@@ -180,6 +214,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 ![Image, SQL Query Boosters Carring Max Payloads](Images/SQL/SQL_booster_carry_max_payload.png)
 
 ^ *Fig 19, SQL Query result showing the booster versions that have carried the maximum payload mass (subquery)*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
 ---
 
@@ -189,6 +225,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 20, SQL Query result that will display the month names, failure landing outcomes on drone ships, booster versions, and launch site for the months in the year 2015*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Ranking Landing Outcomes:
@@ -196,6 +234,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 ![Image, SQL Query result Ranking the count of landing outcomes](Images/SQL/SQL_rank_2010_to_2017.png)
 
 ^ *Fig 21, SQL Query result Ranking the count of landing outcomes, such as Failure (drone ship) or Success (ground pad), between the dates 2010-06-04 and 2017-03-20, in descending order*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
 ---
 
