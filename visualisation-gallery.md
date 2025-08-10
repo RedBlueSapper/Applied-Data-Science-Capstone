@@ -125,7 +125,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ---
 
-### Launch Sites with String 'CCA':
+### Launch Sites with String:
 
 ![Image, SQL Query 5 records where launch sites begin with the string 'CCA'](Images/SQL/SQL_5_records_CCA.png)
 
