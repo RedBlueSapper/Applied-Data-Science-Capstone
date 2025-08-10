@@ -31,7 +31,9 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ![folium world map showing launch locations](Images/Folium/Folium_Worldmap.png)
 
-^ *Fig 01, World map showing SpaceX launch locations*           [BACK](#Visualisations-Gallery)
+^ *Fig 01, World map showing SpaceX launch locations*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
 ### USA Launch site locations:
 
