@@ -12,7 +12,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 | NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK |
 | :----: | :---: | :--: | :----: | :---: | :--: | :----: | :---: | :--: |
-| 01 | World launch sites | [Link](#World-Launch-site-locations) | 13 | Launch Sites, String 'CCA' | [Link](#Launch-Sites,-String-'CCA') | 25 | Text | [Link](#World-Launch-site-locations) |
+| 01 | World launch sites | [Link](#World-Launch-site-locations) | 13 | Launch Sites, String 'CCA' | [Link](#Launch-Sites-String-'CCA') | 25 | Text | [Link](#World-Launch-site-locations) |
 | 02 | USA launch sites | [Link](#USA-Launch-site-locations) | 14 | Text | [Link](#World-Launch-site-locations)| 26 | Text | [Link](#World-Launch-site-locations) |
 | 03 |  Launch sites distances | [Link](#Launch-sites-with-distance-lines) | 15 | Text | [Link](#World-Launch-site-locations) | 27 | Text | [Link](#World-Launch-site-locations) |
 | 04 | Launch sites outcomes | [Link](#Launch-sites-with-outcome-markers) | 16 | Text | [Link](#World-Launch-site-locations) | 28 | Text | [Link](#World-Launch-site-locations) |
