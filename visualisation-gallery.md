@@ -296,7 +296,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ### Highest Success Rate: 
 
-![Image, Dashboard, best success rate zone](Images/Dash/DASH_SpaceX_LC_39A.png)
+![Image, Dashboard, best success rate zone](Images/Dash/DASH_most_succsses.png)
 
 ^ *Fig 28, Dashboard showing the best success rate zone for Payload masses (2000 – 5000kg)*
 *
@@ -305,11 +305,13 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ### Lowest Success Rate: 
 
-![Image, Dashboard, Success rate KSC LC 39A](Images/Dash/DASH_SpaceX_LC_39A.png)
+![Image, Dashboard, Success rate KSC LC 39A](Images/Dash/DASH_lest_succsses.png)
 
-^ *Fig 29, Dashboard showing the lowest success rate for Payload masses (5000 -7000kg)*
+^ *Fig 29, Dashboard showing the lowest success rate for Payload masses (5000 - 7000kg)*
 
 ---
+
+
 
 ## MODELLING OUTCOMES
 
