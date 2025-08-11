@@ -252,6 +252,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 22, Dashboard showing success rates across all launch sites*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Dashboard Menu: 
@@ -259,6 +261,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 ![Image, Dashboard, all selectable options](Images/Dash/DASH_SpaceX_Menu.png)
 
 ^ *Fig 23, Dashboard showing menu with all selectable options*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
 ---
 
@@ -268,6 +272,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 24, Dashboard for KSC LC-39A success rates*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### CCAFS LC 40: 
@@ -275,6 +281,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 ![Image, Dashboard, Success rate CCAFS LC 40](Images/Dash/DASH_SpaceX_LC_40.png)
 
 ^ *Fig 25, Dashboard for CCAFS LC 40 success rates*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
 ---
 
@@ -284,6 +292,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 26, Dashboard for CCAFS SLC 40 success rates*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### VAFB SLC 4E: 
@@ -292,6 +302,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 27, Dashboard for VAFB SLC 4E success rates*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Highest Success Rate: 
@@ -299,7 +311,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 ![Image, Dashboard, best success rate zone](Images/Dash/DASH_most_succsses.png)
 
 ^ *Fig 28, Dashboard showing the best success rate zone for Payload masses (2000 – 5000kg)*
-*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
 ---
 
@@ -308,6 +321,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 ![Image, Dashboard, Success rate KSC LC 39A](Images/Dash/DASH_lest_succsses.png)
 
 ^ *Fig 29, Dashboard showing the lowest success rate for Payload masses (5000 - 7000kg)*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
 ---
 
@@ -319,6 +334,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 30, Confushen Matrix for decision tree classifier, which had the best predictive outcomes of all the models, one incorrect prediction (false positive)*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Model performance:
@@ -327,6 +344,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ^ *Fig 31, Model performance stats Showing decision tree classifier as best performing*
 
+**[BACK](#Visualisations-Gallery) to top of page.**
+
 ---
 
 ### Model performance Bar Chart:
@@ -334,4 +353,6 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 ![Image, Model performance, stats for best performing](Images/Modelling/Bar_chart_model_proformance.png)
 
 ^ *Fig 32, Model performance bar chart Showing decision tree classifier as best performing*
+
+**[BACK](#Visualisations-Gallery) to top of page.**
 
