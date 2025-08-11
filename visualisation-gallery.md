@@ -19,9 +19,9 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 | 05 | Orbit vs Success Rate | [Link](#Orbit-vs-Success-Rate) || 22 | Dashboard Launch Sites | [Link](#Dashboard-Launch-Sites) | 
 | 06 | Yearly Success Trend | [Link](#Yearly-Success-Trend) || 23 | Dashboard Menu | [Link](#Dashboard-Menu) |
 | 07 | Launch Site vs Payload Mass | [Link](#Launch-Site-vs-Payload-Mass) || 24 | KSC LC 39A | [Link](#KSC-LC-39A) |
-| 08 | Flight Number vs Payload Mass | [Link](#Flight-Number-vs-Payload-Mass) || 25 | Text | [Link](#World-Launch-site-locations) |
-| 09 | Flight Number vs Launch Site | [Link](#Flight-Number-vs-Launch-Site) || 26 | Text | [Link](#World-Launch-site-locations) |
-| 10 | Flight Number vs Orbit Type | [Link](#Flight-Number-vs-Orbit-Type) || 27 | Text | [Link](#World-Launch-site-locations) |
+| 08 | Flight Number vs Payload Mass | [Link](#Flight-Number-vs-Payload-Mass) || 25 | CCAFS LC 40 | [Link](#CCAFS-LC-40) |
+| 09 | Flight Number vs Launch Site | [Link](#Flight-Number-vs-Launch-Site) || 26 | CCAFS SLC 40 | [Link](#CCAFS-SLC-40) |
+| 10 | Flight Number vs Orbit Type | [Link](#Flight-Number-vs-Orbit-Type) || 27 | VAFB SLC 4E | [Link](#VAFB-SLC-4E) |
 | 11 | Payload Mass vs Orbit Type | [Link](#Payload-Mass-vs-Orbit-Type) || 28 | Text | [Link](#World-Launch-site-locations) |
 | 12 | Unique Launch Sites | [Link](#Unique-Launch-Sites) || 29 | Text | [Link](#World-Launch-site-locations) |
 | 13 | Launch Sites with String 'CCA' | [Link](#Launch-Sites-with-String) || 30 | Text | [Link](#World-Launch-site-locations) |
@@ -270,31 +270,31 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ---
 
-### KSC LC 39A: 
+### CCAFS LC 40: 
 
-![Image, Dashboard, Success rate KSC LC 39A](Images/Dash/DASH_SpaceX_LC_39A.png)
+![Image, Dashboard, Success rate CCAFS LC 40](Images/Dash/DASH_SpaceX_LC_40.png)
 
-^ *Fig 25, Dashboard for KSC LC-39A success rates*
-
----
-
-### KSC LC 39A: 
-
-![Image, Dashboard, Success rate KSC LC 39A](Images/Dash/DASH_SpaceX_LC_39A.png)
-
-^ *Fig 26, Dashboard for KSC LC-39A success rates*
+^ *Fig 25, Dashboard for CCAFS LC 40 success rates*
 
 ---
 
-### KSC LC 39A: 
+### CCAFS SLC 40: 
 
-![Image, Dashboard, Success rate KSC LC 39A](Images/Dash/DASH_SpaceX_LC_39A.png)
+![Image, Dashboard, Success rate CCAFS SLC 40](Images/Dash/DASH_SpaceX_SLC_40.png)
 
-^ *Fig 27, Dashboard for KSC LC-39A success rates*
+^ *Fig 26, Dashboard for CCAFS SLC 40 success rates*
 
 ---
 
-### KSC LC 39A: 
+### VAFB SLC 4E: 
+
+![Image, Dashboard, Success rate VAFB SLC 4E](Images/Dash/DASH_SpaceX_SLC_4E.png)
+
+^ *Fig 27, Dashboard for VAFB SLC 4E success rates*
+
+---
+
+### xx KSC LC 39A: 
 
 ![Image, Dashboard, Success rate KSC LC 39A](Images/Dash/DASH_SpaceX_LC_39A.png)
 
@@ -302,7 +302,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ---
 
-### KSC LC 39A: 
+### xxx KSC LC 39A: 
 
 ![Image, Dashboard, Success rate KSC LC 39A](Images/Dash/DASH_SpaceX_LC_39A.png)
 
