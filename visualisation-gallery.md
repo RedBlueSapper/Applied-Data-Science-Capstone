@@ -16,9 +16,9 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 | 02 | USA launch sites | [Link](#USA-Launch-site-locations) || 19 | Boosters Carring Max Payloads | [Link](#Boosters-Carring-Max-Payloads) |
 | 03 |  Launch sites distances | [Link](#Launch-sites-with-distance-lines) || 20 | drone ship landing failure | [Link](#drone-ship-landing-failure) |
 | 04 | Launch sites outcomes | [Link](#Launch-sites-with-outcome-markers) || 21 | Ranking Landing Outcomes | [Link](#Ranking-Landing-Outcomes) |
-| 05 | Orbit vs Success Rate | [Link](#Orbit-vs-Success-Rate) || 22 | Text | [Link](#World-Launch-site-locations) | 
-| 06 | Yearly Success Trend | [Link](#Yearly-Success-Trend) || 23 | Text | [Link](#World-Launch-site-locations) |
-| 07 | Launch Site vs Payload Mass | [Link](#Launch-Site-vs-Payload-Mass) || 24 | Text | [Link](#World-Launch-site-locations) |
+| 05 | Orbit vs Success Rate | [Link](#Orbit-vs-Success-Rate) || 22 | Dashboard Launch Sites | [Link](#Dashboard-Launch-Sites) | 
+| 06 | Yearly Success Trend | [Link](#Yearly-Success-Trend) || 23 | Dashboard Menu | [Link](#Dashboard-Menu) |
+| 07 | Launch Site vs Payload Mass | [Link](#Launch-Site-vs-Payload-Mass) || 24 | KSC LC 39A | [Link](#KSC-LC-39A) |
 | 08 | Flight Number vs Payload Mass | [Link](#Flight-Number-vs-Payload-Mass) || 25 | Text | [Link](#World-Launch-site-locations) |
 | 09 | Flight Number vs Launch Site | [Link](#Flight-Number-vs-Launch-Site) || 26 | Text | [Link](#World-Launch-site-locations) |
 | 10 | Flight Number vs Orbit Type | [Link](#Flight-Number-vs-Orbit-Type) || 27 | Text | [Link](#World-Launch-site-locations) |
@@ -246,14 +246,70 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ## DASHBOARD
 
-Dashboard Launch Sites: 
+### Dashboard Launch Sites: 
 
-![Image, SQL Query result Ranking the count of landing outcomes](Images/Dash/DASH_SpaceX_All.png)
+![Image, Dashboard, success rates, all launch sites](Images/Dash/DASH_SpaceX_All.png)
 
 ^ *Fig 22, Dashboard showing success rates across all launch sites*
 
+---
 
-KSC LC-39A: Dashboard for KSC LC-39A success rates.
+### Dashboard Menu: 
+
+![Image, Dashboard, all selectable options](Images/Dash/DASH_SpaceX_Menu.png)
+
+^ *Fig 23, Dashboard showing menu with all selectable options*
+
+---
+
+### KSC LC 39A: 
+
+![Image, Dashboard, Success rate KSC LC 39A](Images/Dash/DASH_SpaceX_LC_39A.png)
+
+^ *Fig 24, Dashboard for KSC LC-39A success rates*
+
+---
+
+### KSC LC 39A: 
+
+![Image, Dashboard, Success rate KSC LC 39A](Images/Dash/DASH_SpaceX_LC_39A.png)
+
+^ *Fig 25, Dashboard for KSC LC-39A success rates*
+
+---
+
+### KSC LC 39A: 
+
+![Image, Dashboard, Success rate KSC LC 39A](Images/Dash/DASH_SpaceX_LC_39A.png)
+
+^ *Fig 26, Dashboard for KSC LC-39A success rates*
+
+---
+
+### KSC LC 39A: 
+
+![Image, Dashboard, Success rate KSC LC 39A](Images/Dash/DASH_SpaceX_LC_39A.png)
+
+^ *Fig 27, Dashboard for KSC LC-39A success rates*
+
+---
+
+### KSC LC 39A: 
+
+![Image, Dashboard, Success rate KSC LC 39A](Images/Dash/DASH_SpaceX_LC_39A.png)
+
+^ *Fig 28, Dashboard for KSC LC-39A success rates*
+
+---
+
+### KSC LC 39A: 
+
+![Image, Dashboard, Success rate KSC LC 39A](Images/Dash/DASH_SpaceX_LC_39A.png)
+
+^ *Fig 29, Dashboard for KSC LC-39A success rates*
+
+---
+
 
 ## MODELLING OUTCOMES
 
