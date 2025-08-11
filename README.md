@@ -1,6 +1,4 @@
-# **DATA SCIENCE CAPSTONE PROJECT**
-
-![Image of SpaceX rocket launch](Images/Miscellaneous/SpaceX_rocket.png)
+# DATA SCIENCE CAPSTONE PROJECT
 
 GitHub repository for all completed notebooks and Python files used for the IBM Data Science Certificate Applied Data Science Capstone project.
 
