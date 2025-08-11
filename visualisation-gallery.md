@@ -10,20 +10,25 @@ This page contains all charts, dashboards, and screenshots from the Data Science
   
 ## IMAGE LIST
 
-| NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK | NUMBER | IMAGE | LINK |
-| :----: | :---: | :--: | :----: | :---: | :--: | :----: | :---: | :--: |
-| 01 | World launch sites | [Link](#World-Launch-site-locations) | 13 | Launch Sites with String 'CCA' | [Link](#Launch-Sites-with-String) | 25 | Text | [Link](#World-Launch-site-locations) |
-| 02 | USA launch sites | [Link](#USA-Launch-site-locations) | 14 | Payload Mass Carried by NASA | [Link](#Payload-Mass-Carried-by-NASA)| 26 | Text | [Link](#World-Launch-site-locations) |
-| 03 |  Launch sites distances | [Link](#Launch-sites-with-distance-lines) | 15 | Average Payload for Booster | [Link](#Average-Payload-for-Booster) | 27 | Text | [Link](#World-Launch-site-locations) |
-| 04 | Launch sites outcomes | [Link](#Launch-sites-with-outcome-markers) | 16 | First Successful Landing | [Link](#First-Successful-Landing) | 28 | Text | [Link](#World-Launch-site-locations) |
-| 05 | Orbit vs Success Rate | [Link](#Orbit-vs-Success-Rate) | 17 | Successful Drone Ship Landings | [Link](#Successful-Drone-Ship-Landings) | 29 | Text | [Link](#World-Launch-site-locations) |
-| 06 | Yearly Success Trend | [Link](#Yearly-Success-Trend) | 18 | Successful and Failed Outcomes | [Link](#Successful-and-Failed-Outcomes) | 30 | Text | [Link](#World-Launch-site-locations) |
-| 07 | Launch Site vs Payload Mass | [Link](#Launch-Site-vs-Payload-Mass) | 19 | Boosters Carring Max Payloads | [Link](#Boosters-Carring-Max-Payloads) | 31 | Text | [Link](#World-Launch-site-locations) |
-| 08 | Flight Number vs Payload Mass | [Link](#Flight-Number-vs-Payload-Mass) | 20 | drone ship landing failure | [Link](#drone-ship-landing-failure) | 32 | Text | [Link](#World-Launch-site-locations) |
-| 09 | Flight Number vs Launch Site | [Link](#Flight-Number-vs-Launch-Site) | 21 | Ranking Landing Outcomes | [Link](#Ranking-Landing-Outcomes) | 33 | Text | [Link](#World-Launch-site-locations) |
-| 10 | Flight Number vs Orbit Type | [Link](#Flight-Number-vs-Orbit-Type) | 22 | Text | [Link](#World-Launch-site-locations) | 34 | Text | [Link](#World-Launch-site-locations) |
-| 11 | Payload Mass vs Orbit Type | [Link](#Payload-Mass-vs-Orbit-Type) | 23 | Text | [Link](#World-Launch-site-locations) |
-| 12 | Unique Launch Sites | [Link](#Unique-Launch-Sites) | 24 | Text | [Link](#World-Launch-site-locations) |
+| NUMBER | IMAGE | LINK | | NUMBER | IMAGE | LINK |
+| :----: | :---: | :--: | --- | :----: | :---: | :--: |
+| 01 | World launch sites | [Link](#World-Launch-site-locations) || 18 | Successful and Failed Outcomes | [Link](#Successful-and-Failed-Outcomes) |
+| 02 | USA launch sites | [Link](#USA-Launch-site-locations) || 19 | Boosters Carring Max Payloads | [Link](#Boosters-Carring-Max-Payloads) |
+| 03 |  Launch sites distances | [Link](#Launch-sites-with-distance-lines) || 20 | drone ship landing failure | [Link](#drone-ship-landing-failure) |
+| 04 | Launch sites outcomes | [Link](#Launch-sites-with-outcome-markers) || 21 | Ranking Landing Outcomes | [Link](#Ranking-Landing-Outcomes) |
+| 05 | Orbit vs Success Rate | [Link](#Orbit-vs-Success-Rate) || 22 | Text | [Link](#World-Launch-site-locations) | 
+| 06 | Yearly Success Trend | [Link](#Yearly-Success-Trend) || 23 | Text | [Link](#World-Launch-site-locations) |
+| 07 | Launch Site vs Payload Mass | [Link](#Launch-Site-vs-Payload-Mass) || 24 | Text | [Link](#World-Launch-site-locations) |
+| 08 | Flight Number vs Payload Mass | [Link](#Flight-Number-vs-Payload-Mass) || 25 | Text | [Link](#World-Launch-site-locations) |
+| 09 | Flight Number vs Launch Site | [Link](#Flight-Number-vs-Launch-Site) || 26 | Text | [Link](#World-Launch-site-locations) |
+| 10 | Flight Number vs Orbit Type | [Link](#Flight-Number-vs-Orbit-Type) || 27 | Text | [Link](#World-Launch-site-locations) |
+| 11 | Payload Mass vs Orbit Type | [Link](#Payload-Mass-vs-Orbit-Type) || 28 | Text | [Link](#World-Launch-site-locations) |
+| 12 | Unique Launch Sites | [Link](#Unique-Launch-Sites) || 29 | Text | [Link](#World-Launch-site-locations) |
+| 13 | Launch Sites with String 'CCA' | [Link](#Launch-Sites-with-String) || 30 | Text | [Link](#World-Launch-site-locations) |
+| 14 | Payload Mass Carried by NASA | [Link](#Payload-Mass-Carried-by-NASA) || 31 | Text | [Link](#World-Launch-site-locations) |
+| 15 | Average Payload for Booster | [Link](#Average-Payload-for-Booster) || 32 | Text | [Link](#World-Launch-site-locations) |
+| 16 | First Successful Landing | [Link](#First-Successful-Landing) || 33 | Text | [Link](#World-Launch-site-locations) |
+| 17 | Successful Drone Ship Landings | [Link](#Successful-Drone-Ship-Landings) ||34 | Text | [Link](#World-Launch-site-locations) |
 
 ## FOLIUM MAPS
 
