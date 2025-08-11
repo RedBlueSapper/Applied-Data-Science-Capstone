@@ -5,7 +5,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 1. [Folium Maps](#FOLIUM-MAPS)
 2. [Charts](#Charts)
 3. [SQL](#SQL-Queries)
-4. [Dashboards](#Dashboards)
+4. [Dashboards](#Dashboard)
 5. [Modelling](#Modelling-Outcomes)
   
 ## IMAGE LIST
