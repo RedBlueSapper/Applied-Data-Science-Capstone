@@ -1,7 +1,7 @@
 # Visualisations Gallery
 This page contains all charts, dashboards, and screenshots from the Data Science Capstone Project.
 
-## SECTIONS:
+## SECTIONS
 1. [Folium Maps](#FOLIUM-MAPS)
 2. [Charts](#Charts)
 3. [SQL](#SQL-Queries)
