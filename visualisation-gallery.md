@@ -22,8 +22,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 | 08 | Flight Number vs Payload Mass | [Link](#Flight-Number-vs-Payload-Mass) || 25 | CCAFS LC 40 | [Link](#CCAFS-LC-40) |
 | 09 | Flight Number vs Launch Site | [Link](#Flight-Number-vs-Launch-Site) || 26 | CCAFS SLC 40 | [Link](#CCAFS-SLC-40) |
 | 10 | Flight Number vs Orbit Type | [Link](#Flight-Number-vs-Orbit-Type) || 27 | VAFB SLC 4E | [Link](#VAFB-SLC-4E) |
-| 11 | Payload Mass vs Orbit Type | [Link](#Payload-Mass-vs-Orbit-Type) || 28 | Text | [Link](#World-Launch-site-locations) |
-| 12 | Unique Launch Sites | [Link](#Unique-Launch-Sites) || 29 | Text | [Link](#World-Launch-site-locations) |
+| 11 | Payload Mass vs Orbit Type | [Link](#Payload-Mass-vs-Orbit-Type) || 28 | Highest Success Rate | [Link](#Highest-Success-Rate) |
+| 12 | Unique Launch Sites | [Link](#Unique-Launch-Sites) || 29 | Lowest Success Rate | [Link](#Lowest-Success-Rate) |
 | 13 | Launch Sites with String 'CCA' | [Link](#Launch-Sites-with-String) || 30 | Text | [Link](#World-Launch-site-locations) |
 | 14 | Payload Mass Carried by NASA | [Link](#Payload-Mass-Carried-by-NASA) || 31 | Text | [Link](#World-Launch-site-locations) |
 | 15 | Average Payload for Booster | [Link](#Average-Payload-for-Booster) || 32 | Text | [Link](#World-Launch-site-locations) |
