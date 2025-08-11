@@ -14,7 +14,7 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 | :----: | :---: | :--: | --- | :----: | :---: | :--: |
 | 01 | World launch sites | [Link](#World-Launch-site-locations) || 18 | Successful and Failed Outcomes | [Link](#Successful-and-Failed-Outcomes) |
 | 02 | USA launch sites | [Link](#USA-Launch-site-locations) || 19 | Boosters Carring Max Payloads | [Link](#Boosters-Carring-Max-Payloads) |
-| 03 |  Launch sites distances | [Link](#Launch-sites-with-distance-lines) || 20 | drone ship landing failure | [Link](#drone-ship-landing-failure) |
+| 03 | Launch sites distances | [Link](#Launch-sites-with-distance-lines) || 20 | drone ship landing failure | [Link](#drone-ship-landing-failure) |
 | 04 | Launch sites outcomes | [Link](#Launch-sites-with-outcome-markers) || 21 | Ranking Landing Outcomes | [Link](#Ranking-Landing-Outcomes) |
 | 05 | Orbit vs Success Rate | [Link](#Orbit-vs-Success-Rate) || 22 | Dashboard Launch Sites | [Link](#Dashboard-Launch-Sites) | 
 | 06 | Yearly Success Trend | [Link](#Yearly-Success-Trend) || 23 | Dashboard Menu | [Link](#Dashboard-Menu) |
@@ -25,10 +25,10 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 | 11 | Payload Mass vs Orbit Type | [Link](#Payload-Mass-vs-Orbit-Type) || 28 | Highest Success Rate | [Link](#Highest-Success-Rate) |
 | 12 | Unique Launch Sites | [Link](#Unique-Launch-Sites) || 29 | Lowest Success Rate | [Link](#Lowest-Success-Rate) |
 | 13 | Launch Sites with String 'CCA' | [Link](#Launch-Sites-with-String) || 30 | Confushen Matrix | [Link](#Confushen-Matrix) |
-| 14 | Payload Mass Carried by NASA | [Link](#Payload-Mass-Carried-by-NASA) || 31 | Text | [Link](#World-Launch-site-locations) |
-| 15 | Average Payload for Booster | [Link](#Average-Payload-for-Booster) || 32 | Text | [Link](#World-Launch-site-locations) |
-| 16 | First Successful Landing | [Link](#First-Successful-Landing) || 33 | Text | [Link](#World-Launch-site-locations) |
-| 17 | Successful Drone Ship Landings | [Link](#Successful-Drone-Ship-Landings) ||34 | Text | [Link](#World-Launch-site-locations) |
+| 14 | Payload Mass Carried by NASA | [Link](#Payload-Mass-Carried-by-NASA) || 31 | Model performance | [Link](#Model-performance) |
+| 15 | Average Payload for Booster | [Link](#Average-Payload-for-Booster) || 32 | Model performance Bar Chart | [Link](#Model-performance-Bar-Chart) |
+| 16 | First Successful Landing | [Link](#First-Successful-Landing) || 33 | --- | --- |
+| 17 | Successful Drone Ship Landings | [Link](#Successful-Drone-Ship-Landings) ||34 | --- | --- |
 
 ## FOLIUM MAPS
 
@@ -315,10 +315,23 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ### Confushen Matrix: 
 
-![Image, Dashboard, Success rate KSC LC 39A](Images/Modelling/Confushen_matrix.png)
+![Image, Confushen Matrix, decision tree classifier](Images/Modelling/Confushen_matrix.png)
 
-^ *Fig 30, Confushen Matrix*
+^ *Fig 30, Confushen Matrix for decision tree classifier, which had the best predictive outcomes of all the models, one incorrect prediction (false positive)*
 
 ---
 
-Confushen_matrix.png
+### Model performance:
+
+![Image, Model performance, stats for best performing](Images/Modelling/Model_accuracy.png)
+
+^ *Fig 31, Model performance stats Showing decision tree classifier as best performing*
+
+---
+
+### Model performance Bar Chart:
+
+![Image, Model performance, stats for best performing](Images/Modelling/Bar_chart_model_proformance.png)
+
+^ *Fig 32, Model performance bar chart Showing decision tree classifier as best performing*
+
