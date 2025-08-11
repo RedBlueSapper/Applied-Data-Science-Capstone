@@ -72,7 +72,7 @@ Launch site location outcome markers:
 
 Landing success yearly trend:
 
-![Line plot of landing success rate](Images/Charts/Line_plot_launch_success_yearly_trend.png)
+![Line plot of landing success rate](Images/Charts/Line_plot_landing_success_yearly_trend.png)
 ^ *Line plot showing landing success (2010-2020)*
 
 Success rate by orbit type:
