@@ -246,7 +246,11 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 ## DASHBOARD
 
-All Launch Sites: Dashboard showing success rates across all launch sites.
+Dashboard Launch Sites: 
+
+![Image, SQL Query result Ranking the count of landing outcomes](Images/Dash/DASH_SpaceX_All.png)
+
+^ *Fig 22, Dashboard showing success rates across all launch sites*
 
 
 KSC LC-39A: Dashboard for KSC LC-39A success rates.
