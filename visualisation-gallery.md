@@ -356,3 +356,8 @@ This page contains all charts, dashboards, and screenshots from the Data Science
 
 **[BACK](#Visualisations-Gallery) to top of page.**
 
+---
+
+## AUTHOR:
+
+Cory Bromwich, June 2025
